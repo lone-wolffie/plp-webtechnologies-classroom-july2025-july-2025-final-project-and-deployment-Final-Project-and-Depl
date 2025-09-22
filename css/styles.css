@@ -223,11 +223,7 @@ body {
     margin-top: 2rem;
 }
 
-.gallery-item {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
+.gallery-item { object-fit: cover; }
 
 img {
     width: 360px;
@@ -334,5 +330,6 @@ textarea { height: 150px; }
         max-width: 100%;
         border-radius: 20px;
         display: block;
+        margin-bottom: 10px;
     }
 }
