@@ -4,7 +4,7 @@ This is a responsive personal portfolio website built with **HTML5, CSS3 and Jav
 It showcases my photography work, services, and provides a way for people to contact me.
 
 ## Deployment
-
+This site is deployed using GitHub pages and can be accessed through https://lone-wolffie.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ## Features
 - **Multi-page design**

@@ -327,4 +327,12 @@ textarea { height: 150px; }
     .hero p { font-size: 1.1rem; }
 
     .services-grid { grid-template-columns: 1fr; }
+
+    img {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+        border-radius: 20px;
+        display: block;
+    }
 }
